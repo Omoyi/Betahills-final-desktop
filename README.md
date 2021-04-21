@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Betahills final desktop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Betahills was founded by Lena Simon in Berlin in 2019.
+We connect European businesses with a team of female software testers in Rwanda. Our team seamlessly integrates into your existing processes at no additional cost and makes sure your solution is flawless and ready for market. Our certified testers are part of Rwanda’s first and only QA and software testing team and work together with experienced technical leads and project managers from the US, Canada and Europe. Betahills connects these female tech professionals in Rwanda with an international client base.
 
 ## Available Scripts
 
