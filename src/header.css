@@ -1,0 +1,37 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    left: 0;
+    top: 0;
+    background-color: #96D2AA;
+}
+
+ul{
+    list-style: none;
+  }
+a{
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+}
+    .active{
+      color: #0100CD;
+      font-weight: 550;
+      font-style: normal;
+    }
+    nav ul li a{
+      font-family: 'Roboto';
+      line-height: 19.92px;
+      padding: 30px 30px;
+      display: flex;
+      font-size: 17px;
+      color:#0100CD;
+      letter-spacing: 0.125em;
+    }
+
+    nav ul li a:hover{
+        color: #0100CD;
+        font-weight: 550;
+    }
