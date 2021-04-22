@@ -1,7 +1,12 @@
+* {
+  background-color: #96D2AA;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    width: 100%;
     left: 0;
     top: 0;
     background-color: #96D2AA;
@@ -28,6 +33,7 @@ nav ul{
       display: flex;
       font-size: 17px;
       color:#0100CD;
+      cursor: pointer;
       letter-spacing: 0.125em;
     }
 
