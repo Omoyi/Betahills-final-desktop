@@ -2,6 +2,7 @@ import './App.css';
 import Header from '../src/components/sections/Header.js';
 import Herosection from './components/sections/HeroSection';
 import About from './components/sections/About';
+import Process from './components/sections/Process';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header/>
       <Herosection/>
       <About/>
+      <Process/>
     </div>
   );
 }
